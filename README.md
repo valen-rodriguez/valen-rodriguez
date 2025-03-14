@@ -11,9 +11,9 @@
 
   <!-- Description -->
 ```diff
+#  👨‍🔧 Technician in Information and Communications Technology (ICT)
 +  ✔️ Responsible worker.
-#  👨‍💻 Technician in Information and Communications Technology (ICT)
-!  ✨ Anything you can imagine could be programmed.
+!  ✨ Anything you can imagine can be programmed.
 ```
 
   <!-- Skills and Tools-->
@@ -48,9 +48,7 @@
 ##
 <p align="right">
   <span>
-    <a target="_blank"><img src="https://komarev.com/ghpvc/?username=dante-barreda&style=for-the-badge" alt="Profile views" height="25" /></a>
     <a href="mailto:rodriguezvalentin1205@gmail.com?subject=Hello%20UserName"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="25" /></a>
-    <a href="https://your-portfolio-website.com" target="_blank"><img src="https://img.shields.io/badge/portfolio-%2324292e.svg?&style=for-the-badge&logo=pfsense&logoColor=white&logoSize=30" alt="Portfolio" height="25" /></a>
-    <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="25" /></a>
+    <a href="https://www.linkedin.com/in/valentin-ezequiel-rodriguez/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="25" /></a>
   </span>
 </p>
