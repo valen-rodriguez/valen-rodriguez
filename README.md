@@ -1,5 +1,5 @@
  <!-- Welcome -->
-<h1  align="center">Hi there <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif]" width="35"></h1>
+<h1  align="center">Hi there <img src="[https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExang0aHRwZGF4aW4xM2h5aTZ1eWppc3AxNTU5Zm1hajhnczBhemVjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif]" width="35"></h1>
 
   <!-- Typing Text -->
 <p align="center">
