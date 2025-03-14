@@ -37,7 +37,6 @@
           <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="50" alt="Visual Studio logo" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git logo" />
           <img src="https://img.icons8.com/fluent/48/000000/github.png" width="55" alt="Github logo" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" alt="Postman logo" />
           <img src="https://img.icons8.com/color/48/000000/console.png" width="53" alt="Console logo" />
           <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="53" alt="Java logo"/>
         </td>
