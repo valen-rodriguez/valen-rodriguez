@@ -13,7 +13,7 @@
 ```diff
 #  👨‍🔧 Technician in Information and Communications Technology (ICT)
 +  ✔️ Responsible worker.
-!  ✨ Anything you can imagine can be programmed.
+!  ✨ If you can imagine it, you can code it.
 ```
 
   <!-- Skills and Tools-->
